@@ -1,0 +1,3 @@
+[submodule "client-service"]
+	path = client-service
+	url = https://github.com/zhur4k/client-service.git
